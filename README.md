@@ -1,5 +1,5 @@
 # 8086YW
-List of file  Here are the list of file.
+List of files in repository
 * _Information Seeking_  
 * _Data Entry Analysis_  
 * _Data Cleaning Documentation_
