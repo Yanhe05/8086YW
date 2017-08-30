@@ -11,6 +11,12 @@
 
 
 ### File List
- * _Information Seeking_  
- * _Data Entry Analysis_  
- * _Data Cleaning Documentation_
+ * _Information Seeking_  
+ 
+    >Details placeholder
+ * _Data Entry Analysis_  
+ 
+     >Details placeholder
+ * _Data Cleaning Documentation_  
+ 
+     >Details placeholder
