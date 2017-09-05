@@ -1,4 +1,4 @@
-## Dataset1
+## Dataset 1
 
 #### LendingClub LoanStats data for 2016 Quarter1
 
@@ -23,3 +23,71 @@ Investor, Business Analyst, Accountant
 
 #### APA citation
 Lending Club Statistics. (n.d.). Retrieved September 04, 2017, from https://www.lendingclub.com/info/download-data.action
+
+## Dataset 2
+#### Killer Tornadoes
+
+#### Why interesting
+Tornadoes is a common weather phenomenon. Although every continent except Antarctica has a tornado, but the United States suffered more tornado than any country or region. From the killer Tornadoes data set, we could know which place is the high frequency area of killer Tornadoes and performance of tornadoes prediction system. 
+
+#### Description
+This data set contains killer Tornadoes data from 2008 to 2016. It included 10 variables and 200 observation.  
+**Variables:**
+* datetime
+* counties
+* state 
+* death 
+* in tornado watch 
+* in server thunderstorm watch 
+* colse to the watch 
+* no watch in effect 
+* EF scale rating 
+* location 
+
+#### liciense Info
+[Freedom of Information Act](https://en.wikipedia.org/wiki/Freedom_of_Information_Act_(United_States))
+
+#### Potential data users
+Governer, Student, Analyst
+
+#### Questions
+* which EF scale rating Tornadoes has more death?
+* what's the top 3 states for Killer tornadoes?
+* what's the top 3 states for deaths?
+
+#### APA citation
+NOAA/NWS Storm Prediction Center. (n.d.). Retrieved September 04, 2017, from http://www.spc.noaa.gov/climo/torn/fatalmap.php#latest
+
+## Dataset3
+
+#### Death of Gunshoot from 2012 to 2014
+#### why interesting 
+
+#### Description
+This data set contains Death of Gunshoot data from 2012 to 2014. It included 10 variables and ?? observation.
+**Variables:**
+* year
+* month
+* intent
+* police
+* sex
+* age
+* race
+* hispanic
+* place
+* education
+
+#### liciense Info
+
+
+#### Potential data users
+
+
+#### Questions
+* 
+* 
+* 
+
+#### APA citation
+
+
