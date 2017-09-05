@@ -60,11 +60,11 @@ NOAA/NWS Storm Prediction Center. (n.d.). Retrieved September 04, 2017, from htt
 
 ## Dataset3
 
-#### Death of Gunshoot from 2012 to 2014
+#### Gun-death data in U.S from 2012 to 2014
 #### why interesting 
 
 #### Description
-This data set contains Death of Gunshoot data from 2012 to 2014. It included 10 variables and ?? observation.
+This data set contains Gun-death data in US from 2012 to 2014. It included 10 variables and 100797 observations.
 **Variables:**
 * year
 * month
@@ -78,7 +78,7 @@ This data set contains Death of Gunshoot data from 2012 to 2014. It included 10 
 * education
 
 #### liciense Info
-
+[Github](https://help.github.com/articles/github-terms-of-service/)
 
 #### Potential data users
 
