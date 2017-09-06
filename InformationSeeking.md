@@ -80,7 +80,7 @@ This dataset contains 2013,2014 small area for 27 measures of chronic disease. I
 
 #### liciense Info
 Public: This dataset is intended for public access and use.  
-License: [Open Database License(ODbL)](https://opendatacommons.org/licenses/odbl/1.0/)
+License: [Open Database License(ODbL)](https://opendatacommons.org/licenses/odbl/1.0/)  
 The Open Database License (ODbL) is a license agreement intended to allow users to freely share, modify, and use this Database while maintaining this same freedom for others.
 
 #### Potential data users
