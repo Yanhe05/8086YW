@@ -45,7 +45,8 @@ This data set contains killer Tornadoes data from 2008 to 2016. It included 10 v
 * location 
 
 #### liciense Info
-[Freedom of Information Act](https://en.wikipedia.org/wiki/Freedom_of_Information_Act_(United_States))
+[Freedom of Information Act](https://en.wikipedia.org/wiki/Freedom_of_Information_Act_(United_States))  
+The Freedom of Information Act (FOIA), 5 U.S.C. § 552, is a federal freedom of information law that allows for the full or partial disclosure of previously unreleased information and documents controlled by the United States government. 
 
 #### Potential data users
 Governer, Student, Analyst
