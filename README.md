@@ -12,10 +12,11 @@
 
 
 ### File List
- * [_Information Seeking_](https://github.com/Yanhe05/8086YW/blob/master/InformationSeeking.md)  
-    ** Dataset 1 : Local Data For Better Health  
-    ** Dataset 2 : Killer Tornadoes  
-    ** Dataset 3 : LendingClub LoanStats data for 2016 Quarter1
+ * [_Information Seeking_](https://github.com/Yanhe05/8086YW/blob/master/InformationSeeking.md)
+ 
+ >Dataset 1 : Local Data For Better Health  
+     Dataset 2 : Killer Tornadoes  
+     Dataset 3 : LendingClub LoanStats data for 2016 Quarter1
     
  * _Data Entry Analysis_  
  
