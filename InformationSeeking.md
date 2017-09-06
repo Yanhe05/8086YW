@@ -5,7 +5,7 @@
 Chronic diseases generally cannot be prevented by vaccines or cured by vaccines or cured by medication, nor do they just disappear. It’s interesting because this dataset includes2013, 2014 small area estimates for 27 measures of chronic disease related to unhealth behaviors(5), health outcomes(13), and use of preventive services(9). This dataset is significant to identify emerging health problems and provide information for health prevention activities. 
 
 #### Description
-This dataset contains 2013,2014 small area for 27 measures of chronic disease. It included 10 variables and 810103 observations.
+This dataset contains 2013,2014 small area for 27 measures of chronic disease. It included 10 variables and 810103 observations.  
 **Variables:**
 * Year
 * StateAbbr
