@@ -11,7 +11,7 @@
 
 
 ### File List
- * [_Information Seeking_](g)  
+ * [_Information Seeking_](https://github.com/Yanhe05/8086YW/blob/master/InformationSeeking.md)  
  
     * Dataset 1 : Local Data For Better Health  
     * Dataset 2 : Killer Tornadoes  
