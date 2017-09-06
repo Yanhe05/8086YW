@@ -11,9 +11,11 @@
 
 
 ### File List
- * _Information Seeking_  
+ * [_Information Seeking_](g)  
  
-    > * Dataset 1 : Local Data For Better Health  * Dataset 2 : Killer Tornadoes  * Dataset 3 : LendingClub LoanStats data for 2016 Quarter1
+    * Dataset 1 : Local Data For Better Health  
+    * Dataset 2 : Killer Tornadoes  
+    * Dataset 3 : LendingClub LoanStats data for 2016 Quarter1
     
  * _Data Entry Analysis_  
  
