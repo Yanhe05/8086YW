@@ -60,34 +60,37 @@ NOAA/NWS Storm Prediction Center. (n.d.). Retrieved September 04, 2017, from htt
 
 ## Dataset3
 
-#### Gun-death data in U.S from 2012 to 2014
+#### Local Data For Better Health
 #### why interesting 
+Chronic diseases generally cannot be prevented by vaccines or cured by vaccines or cured by medication, nor do they just disappear. It’s interesting because this dataset includes2013, 2014 small area estimates for 27 measures of chronic disease related to unhealth behaviors(5), health outcomes(13), and use of preventive services(9). This dataset is significant to identify emerging health problems and provide information for health prevention activities. 
 
 #### Description
-This data set contains Gun-death data in US from 2012 to 2014. It included 10 variables and 100797 observations.
+This dataset contains 2013,2014 small area for 27 measures of chronic disease. It included 10 variables and 810103 observations.
 **Variables:**
-* year
-* month
-* intent
-* police
-* sex
-* age
-* race
-* hispanic
-* place
-* education
+* Year
+* StateAbbr
+* Category
+* Measure
+* Data Value Type
+* Data value
+* Low confidence limit
+* High confidence limit
+* Population Count
+* Short question text
 
 #### liciense Info
-[Github](https://help.github.com/articles/github-terms-of-service/)
+Public: This dataset is intended for public access and use.  
+License: [Open Database License(ODbL)](https://opendatacommons.org/licenses/odbl/1.0/)
+The Open Database License (ODbL) is a license agreement intended to allow users to freely share, modify, and use this Database while maintaining this same freedom for others.
 
 #### Potential data users
-
+Researche, Government Agents, Physician, Health Analyst
 
 #### Questions
-* 
-* 
-* 
+* what is the average data value of Health outcome in Nebraska?
+* what is the top 1 unhealth behavior in Nebraska?
+* what is the population that has arthritis among adults aged >=18 years?
 
 #### APA citation
-
+500 Cities: Local Data for Better Health. (2016, December 07). Retrieved September 06, 2017, from https://catalog.data.gov/dataset/500-cities-local-data-for-better-health-b32fd
 
