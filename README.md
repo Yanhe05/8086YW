@@ -18,9 +18,9 @@
      Dataset 2 : Killer Tornadoes  
      Dataset 3 : LendingClub LoanStats data for 2016 Quarter1
     
- * _Data Entry Analysis_  
+ * [_Data Entry Analysis_](https://github.com/Yanhe05/8086YW/blob/master/dataEntryAnalysis.md)  
+ Please follow the link.
  
-     >Details placeholder
  * _Data Cleaning Documentation_  
  
      >Details placeholder
