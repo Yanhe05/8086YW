@@ -13,6 +13,6 @@
 I will suggest the organization to use a data collection system. It’s a computer application that facilitates the process of data collection, allowing specific, structured information to be gathered in a system fashion. It can solve the problem such as data missing, when data missing occur, system will pop up notification to users and stop users go to the next step until they enter data for required field. Also, data collection system containing detailed user input fields and data validations. In the potential template, Time is added to state the data collection time in a day. Unit is added to declare the variables. Pound file and zoop-temp file are combined to reduce data collection times.
 
 
-| Date | Time | Depth(m) | Tempeture(`C) | Main Species | Main Species density per ml | Colony Diameter(ml) | Chippo #/L | Chippo ColonySize(mm) | Cuni #/L | Cuni ColonySize(mm) | Chlorophyll a |
+| Date | Time | Depth(m) | Tempeture(°C) | Main Species | Main Species density per ml | Colony Diameter(ml) | Chippo #/L | Chippo ColonySize(mm) | Cuni #/L | Cuni ColonySize(mm) | Chlorophyll a |
 |------|------|----------|---------------|--------------|-----------------------------|---------------------|------------|-----------------------|----------|---------------------|---------------|
 
